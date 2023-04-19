@@ -1,0 +1,5 @@
+SensorID,City,PressureReading
+101,Ipoh,360.5
+102,Malim,400.5
+103,Klang,678.7
+104,Tapah,859.6

@@ -1,0 +1,5 @@
+SensorID,City,PressureReading
+501,Kerteh,567.7
+502,Kuantan,123.4
+503,Gambang,975.7
+504,Gebeng,65.6
